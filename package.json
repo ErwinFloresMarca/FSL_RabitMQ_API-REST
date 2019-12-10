@@ -1,0 +1,15 @@
+{
+  "name": "nodeproductorconsumidor",
+  "version": "1.0.0",
+  "description": "prueba rabbitmq en nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "run-dev"
+  },
+  "author": "erwin flores",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.5.5",
+    "express": "^4.17.1"
+  }
+}
